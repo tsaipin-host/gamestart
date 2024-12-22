@@ -1,0 +1,322 @@
+/* 設定按鈕的樣式 或其他重複利用物品 */
+
+.startButton-style {
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  border: none;
+  border-radius: 90%;
+  padding: 20px 45px;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.introButton-style {
+  background-color: #605e5e00;
+  color: rgb(255, 255, 255);
+  border: none;
+  padding: 20px 30px;
+  font-size: 27px;
+  cursor: pointer;
+}
+
+.introButton3-style {
+  background-color: #605e5e00;
+  color: rgb(255, 255, 255);
+  border: none;
+  padding: 20px 30px;
+  font-size: 27px;
+  cursor: pointer;
+}
+
+.levelButton-style {
+  background-color: #605e5e00;
+  color: rgb(255, 255, 255);
+  border: none;
+  padding: 120px 90px;
+  cursor: pointer;
+}
+
+.levelButton2-style {
+  background-color: #605e5e00;
+  color: rgb(255, 255, 255);
+  border: none;
+  padding: 50px 40px;
+  cursor: pointer;
+}
+
+.levelButton3-style {
+  background-color: #605e5e00;
+  color: rgb(255, 255, 255);
+  border: none;
+  padding: 105px 90px;
+  cursor: pointer;
+}
+
+.levelButton4-style {
+  background-color: #605e5e00;
+  color: rgb(255, 255, 255);
+  border: none;
+  padding: 70px 85px;
+  cursor: pointer;
+}
+
+.levelButton5-style {
+  background-color: #605e5e00;
+  color: rgb(255, 255, 255);
+  border: none;
+  padding: 80px 115px;
+  cursor: pointer;
+}
+
+.finalScore-style {
+  background-color: #605e5e00;
+  color: rgb(255, 255, 255);
+  border: none;
+  padding: 80px 115px;
+  cursor: pointer;
+}
+.choiceButton-style {
+  background-color: #56432e;
+  color: rgb(255, 255, 255);
+  border: none;
+  border-radius: 5%;
+  padding: 30px 45px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.choiceButton-style-over {
+  background-color: #a52727;
+  color: rgb(255, 255, 255);
+  border: none;
+  border-radius: 5%;
+  padding: 30px 45px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.choiceButton2-style {
+  background-color: #56432e;
+  color: rgb(255, 255, 255);
+  border: none;
+  border-radius: 5%;
+  padding: 25px 64px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  white-space: pre-line;
+  line-height: 1;
+}
+
+.choiceButton2-style-over {
+  background-color: #a52727;
+  color: rgb(255, 255, 255);
+  border: none;
+  border-radius: 5%;
+  padding: 25px 64px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  white-space: pre-line;
+  line-height: 1;
+}
+
+.choiceButton3-style {
+  background-color: #dbdbdb;
+  color: #2620ce;
+  border: none;
+  border-radius: 5%;
+  padding: 30px 53px;
+  font-size: 19px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.choiceButton3-style-over {
+  background-color: #2620ce;
+  color: #dbdbdb;
+  border: none;
+  border-radius: 5%;
+  padding: 30px 53px;
+  font-size: 19px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.choiceButton4-style {
+  background-color: #dbdbdb;
+  color: #2620ce;
+  border: none;
+  border-radius: 5%;
+  padding: 30px 35px;
+  font-size: 19px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.choiceButton4-style-over {
+  background-color: #2620ce;
+  color: #dbdbdb;
+  border: none;
+  border-radius: 5%;
+  padding: 30px 35px;
+  font-size: 19px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.choiceButton5-style {
+  background-color: #dbdbdb;
+  color: #2620ce;
+  border: none;
+  border-radius: 5%;
+  padding: 23px 50px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  white-space: pre-line;
+  line-height: 1;
+}
+
+.choiceButton5-style-over {
+  background-color: #2620ce;
+  color: #dbdbdb;
+  border: none;
+  border-radius: 5%;
+  padding: 23px 50px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  white-space: pre-line;
+  line-height: 1;
+}
+
+.choiceButton6-style {
+  background-color: #56432e;
+  color: rgb(255, 255, 255);
+  border: none;
+  border-radius: 5%;
+  padding: 30px 25px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.choiceButton6-style-over {
+  background-color: #a52727;
+  color: rgb(255, 255, 255);
+  border: none;
+  border-radius: 5%;
+  padding: 30px 25px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.choiceButton7-style {
+  background-color: #9f8964;
+  color: rgb(255, 255, 255);
+  border: none;
+  border-radius: 5%;
+  padding: 30px 53px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.choiceButton7-style-over {
+  background-color: #a52727;
+  color: rgb(255, 255, 255);
+  border: none;
+  border-radius: 5%;
+  padding: 30px 53px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.choiceButton8-style {
+  background-color: #9f8964;
+  color: rgb(255, 255, 255);
+  border: none;
+  border-radius: 5%;
+  padding: 25px 64px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  white-space: pre-line;
+  line-height: 1;
+}
+
+.choiceButton8-style-over {
+  background-color: #a52727;
+  color: rgb(255, 255, 255);
+  border: none;
+  border-radius: 5%;
+  padding: 25px 64px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  white-space: pre-line;
+  line-height: 1;
+}
+
+.choiceButton9-style {
+  background-color: #56432e;
+  color: rgb(255, 255, 255);
+  border: none;
+  border-radius: 5%;
+  padding: 22px 50px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.choiceButton9-style-over {
+  background-color: #a52727;
+  color: rgb(255, 255, 255);
+  border: none;
+  border-radius: 5%;
+  padding: 22px 50px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.choiceButton10-style {
+  background-color: #56432e;
+  color: rgb(255, 255, 255);
+  border: none;
+  border-radius: 5%;
+  padding: 22px 59px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.choiceButton10-style-over {
+  background-color: #a52727;
+  color: rgb(255, 255, 255);
+  border: none;
+  border-radius: 5%;
+  padding: 22px 59px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.restartButton-style {
+  background-color: #ffcc00;
+  color: #000;
+  border: none;
+  padding: 10px 20px;
+  font-size: 18px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.restartButton-style:hover {
+  background-color: #ffaa00;
+}
